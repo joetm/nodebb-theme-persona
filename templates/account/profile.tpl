@@ -10,7 +10,7 @@
 		<!-- ENDIF aboutme -->
 
 
-<!-- IMPORT partials/account/custom_fields_flex.tpl -->
+		<!-- IMPORT partials/account/custom_fields_flex.tpl -->
 
 
 		<div class="account-stats">
