@@ -107,6 +107,8 @@
 						</div>
 						<!-- ENDIF !disableSignatures -->
 
+						<!-- IMPORT partials/account/custom_fields_flex.tpl -->
+
 						<input type="hidden" id="inputUID" value="{uid}"><br />
 
 						<div class="form-actions">

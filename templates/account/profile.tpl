@@ -9,10 +9,6 @@
 		<span component="aboutme" class="text-center aboutme">{aboutme}</span>
 		<!-- ENDIF aboutme -->
 
-
-		<!-- IMPORT partials/account/custom_fields_flex.tpl -->
-
-
 		<div class="account-stats">
 			<!-- IF !reputation:disabled -->
 			<div class="stat">
